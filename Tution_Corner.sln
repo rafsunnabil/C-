@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tution_Corner", "Tution_Corner\Tution_Corner.csproj", "{E2A9A1CE-34DB-473E-94F6-A724B57C9A58}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Tution_Corner_", "Tution_Corner_\Tution_Corner_.vdproj", "{FB05197E-49B4-4CEF-BC59-4AC5841A0FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2A9A1CE-34DB-473E-94F6-A724B57C9A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A9A1CE-34DB-473E-94F6-A724B57C9A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A9A1CE-34DB-473E-94F6-A724B57C9A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A9A1CE-34DB-473E-94F6-A724B57C9A58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB05197E-49B4-4CEF-BC59-4AC5841A0FAA}.Debug|Any CPU.ActiveCfg = Debug
+		{FB05197E-49B4-4CEF-BC59-4AC5841A0FAA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5953EA32-C412-460F-B832-D03883504294}
+	EndGlobalSection
+EndGlobal
